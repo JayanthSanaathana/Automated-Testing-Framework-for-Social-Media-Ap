@@ -1,1 +1,1 @@
-# Automated-Testing-Framework-for-Social-Media-Ap
+# Automated-Testing-Framework-for-Social-Media-App
